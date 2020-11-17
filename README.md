@@ -2,13 +2,10 @@
 Organización de Datos (75.06/95.58) - 2° cuatrimestre 2020
 
 # Table of Contents
+* [Enunciado](#Enunciado)
+* [Informe](#Informe)
 * [Instructions](#instructions)
-* [Basic project structure](#basic-project-structure)
-    * [Test classes nomenclature](#test-classes-nomenclature)
-* [Instructions](#instructions)
-    * [Build/test instructions](#buildtest-instructions)
     * [Running instructions](#running-instructions)
-* [Continuous integration](#ci)
 
 # Enunciado:
 El trabajo consiste en realizar un análisis exploratorio de los datos provistos con el objetivo de determinar características y variables importantes, descubrir insights interesantes, y analizar la estructura de los mismos.\
